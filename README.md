@@ -12,7 +12,7 @@ breaking builds.
 
 ## Installation
 
-`docker pull muccg/devpi`
+`docker pull akailash/docker-devpi`
 
 ## Quickstart
 
